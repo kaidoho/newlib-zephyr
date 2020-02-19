@@ -1918,7 +1918,7 @@ am__api_version='1.11'
 # SunOS /usr/etc/install
 # IRIX /sbin/install
 # AIX /bin/install
-# AmigaOS /C/install, which installs bootblocks on floppy discs
+# AmigaOS /C/install, which installs bootbstubss on floppy discs
 # AIX 4 /usr/bin/installbsd, which doesn't work without a -g flag
 # AFS /usr/afsws/bin/install, which mishandles nonexistent args
 # SVR4 /usr/ucb/install, which tries to use the nonexistent group "staff"
@@ -2052,7 +2052,7 @@ then
    :
 else
    as_fn_error $? "newly created file is older than distributed files!
-Check your system clock" "$LINENO" 5
+Check your system cstubs" "$LINENO" 5
 fi
 { $as_echo "$as_me:${as_lineno-$LINENO}: result: yes" >&5
 $as_echo "yes" >&6; }
